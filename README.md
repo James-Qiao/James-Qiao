@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 This is James Qiao :cowboy_hat_face:
 
 <!--
 **James-Qiao/James-Qiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m a UG student at The University of Hong Kong
+- 🔭 I’m currently learning and working on computational biology & machine learning
+- 👯 Welcome to see my works on [GLM](https://github.com/James-Qiao/Summer_Research_Intern_2023) 
+- 📫 How to reach me: qjmbjl@connect.hku.hk
