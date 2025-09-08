@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👯 Welcome to see my works on [GLM](https://github.com/James-Qiao/Summer_Research_Intern_2023) 
 -->
 
-- 🌱 I’m a UG student at The University of Hong Kong
-- 🔭 I’m currently learning and working on computational biology & machine learning
-- 👯 Welcome to see my works on [GLM](https://github.com/James-Qiao/Summer_Research_Intern_2023) 
+- 🌱 I’m a PhD student in bioinformatcis @ The University of Hong Kong
+- 🔭 I’m currently working on computational biology & machine learning
 - 📫 How to reach me: qjmbjl@connect.hku.hk
