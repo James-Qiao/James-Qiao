@@ -1,4 +1,4 @@
-### Hi there 👋 This is Qiao Jiamu James :cowboy_hat_face:
+### Hi there 👋 This is Jiamu James Qiao :cowboy_hat_face:
 
 <!--
 **James-Qiao/James-Qiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
